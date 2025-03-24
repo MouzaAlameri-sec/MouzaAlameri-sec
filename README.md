@@ -7,8 +7,6 @@ A cybersecurity Student.
 ## ✅ certifcations :
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MouzaAlameri-sec&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 ## 🌐 Connect with me :
