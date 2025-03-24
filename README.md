@@ -11,7 +11,8 @@
 - Working on creating a SIEM environement using WAZUH + FIM
 
 
-  Cybersecurity projects 
+👩🏾‍💻 **Cybersecurity projects**
+
 - [FIM (File Integrity Monitor) - using Wazuh ](https://github.com/MouzaAlameri-sec/FIM-LAB/tree/main)
 
 
