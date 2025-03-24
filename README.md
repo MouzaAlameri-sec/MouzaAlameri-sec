@@ -13,11 +13,14 @@
 
 <div align="center">
 
-<p>💻 <strong>Cybersecurity projects</strong></p>
+<h3>💻 Cybersecurity Projects</h3>
 
-<p><a href="https://github.com/MouzaAlameri-sec/FIM-LAB/tree/main"><strong>FIM (File Integrity Monitor) - using Wazuh</strong></a></p>
+<a href="https://github.com/MouzaAlameri-sec/FIM-LAB">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=FIM-LAB&theme=graywhite" />
+</a>
 
 </div>
+
 
 
 
