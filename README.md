@@ -8,7 +8,7 @@
 
 
  Currently working on |
-- Working on creating a SIEM [FIM] environement using WAZUH 
+ Working on creating a SIEM [FIM] environement using WAZUH 
 
 
 👩🏾‍💻 **Cybersecurity projects**
