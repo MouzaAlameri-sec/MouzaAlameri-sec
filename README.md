@@ -9,7 +9,8 @@ Mouza Alameri
 
  Currently working on | </b>
  
- cryptographic solutions. 
+ cryptographic solutions. </b>
+ 
  Malware analysis - Dynamic
 
 <div align="center">
