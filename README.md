@@ -18,7 +18,7 @@
 
 ## 👩🏾‍💻 cybersecurity projects :
 ## 🌟 Current projects :
-Working on creating an SIEM environement using WAZUH + FIM
+- Working on creating an SIEM environement using WAZUH + FIM
 
 
 
