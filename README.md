@@ -12,11 +12,13 @@
  Working on creating a SIEM [FIM] environement using WAZUH 
 
 <div align="center">
-<h3>👩🏾‍💻 **Cybersecurity projects**<h3>
 
-<p> [FIM (File Integrity Monitor) - using Wazuh ](https://github.com/MouzaAlameri-sec/FIM-LAB/tree/main)<p>
+<p>💻 <strong>Cybersecurity projects</strong></p>
+
+<p><a href="https://github.com/MouzaAlameri-sec/FIM-LAB/tree/main"><strong>FIM (File Integrity Monitor) - using Wazuh</strong></a></p>
 
 </div>
+
 
 
 
