@@ -8,8 +8,9 @@ Mouza Alameri
 
 
  Currently working on | </b>
- Working on a cryptographic solutions lab. 
  
+ Working on a cryptographic solutions. 
+
 
 <div align="center">
 
