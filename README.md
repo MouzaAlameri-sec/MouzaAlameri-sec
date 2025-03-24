@@ -1,5 +1,14 @@
-# Hi, Im Mouza!
-A cybersecurity Student.
+<p align="center">
+  <a href="https://github.com/MozaAlameri-sec">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Moza Alameri" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Cybersecurity%20Student;Committed%20to%20a%20safer%20cyber
+
 
 ## 👩🏾‍💻 cybersecurity projects :
 
