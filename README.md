@@ -2,6 +2,10 @@
   Moza Alameri
 </h1>
 
+<h3 align="center">
+ 👾
+</h3>
+
 <p align="center">
   <a href="https://github.com/MozaAlameri-sec">
     <img src="https://readme-typing-svg.demolab.com?lines=Cybersecurity%20Student;Committed%20to%20a%20safer%20cyberplace&font=Fira%20Code&center=true&width=500&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
@@ -11,11 +15,10 @@
 
 
 
-
 ## 👩🏾‍💻 cybersecurity projects :
 
 
-## ✅ certifcations :
+
 
 
 
