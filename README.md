@@ -7,13 +7,16 @@
 
 
 
- Currently working on |
+ Currently working on | </b>
+ 
  Working on creating a SIEM [FIM] environement using WAZUH 
 
+<div align="center">
+<h3>👩🏾‍💻 **Cybersecurity projects**<h3>
 
-👩🏾‍💻 **Cybersecurity projects**
+<p> [FIM (File Integrity Monitor) - using Wazuh ](https://github.com/MouzaAlameri-sec/FIM-LAB/tree/main)<p>
 
-- [FIM (File Integrity Monitor) - using Wazuh ](https://github.com/MouzaAlameri-sec/FIM-LAB/tree/main)
+</div>
 
 
 
