@@ -1,5 +1,5 @@
 <h1 align="center" style="color:black; font-weight:bold;">
-  Moza Alameri
+
 </h1>
 
 > [!About me]  
