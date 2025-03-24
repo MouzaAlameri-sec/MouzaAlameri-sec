@@ -1,7 +1,9 @@
 <h1>Hi, I'm Mouza! 
  
 <h2> 👩🏽‍💻 Cybersecurity Projects:</h2>
-
+- <b>PowerShell</b>
+  - [FIM (File Integrity Monitor)]
+  
 <h2> 💻  Coding Projects:</h2>
 
 <h2> 📜✅ Certifications:</h2>
