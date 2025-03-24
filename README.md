@@ -11,7 +11,7 @@
 
 
  Currently working on |
-- Working on creating an SIEM environement using WAZUH + FIM
+- Working on creating a SIEM environement using WAZUH + FIM
   
 
 
