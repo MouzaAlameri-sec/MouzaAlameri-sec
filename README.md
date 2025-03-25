@@ -22,12 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=FIM-LAB&theme=graywhite" />
 </a>
 
-</div>
-<div align="center">
 
-[ For more projects - Click here  ](https://drive.google.com/drive/folders/1Uf1JO0iusf-kaWLhejxUMXoB2L22k_gd?usp=sharing)
-
-</div>
 
 
 
