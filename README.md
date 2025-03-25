@@ -1,6 +1,8 @@
-<h1 align="center" style="color:black; font-weight:bold;">
-Mouza Alameri
-</h1>
+<p align="center">
+  <img src="https://i.imgur.com/4U19sNw.gif" alt="Hello, I'm Mouza" width="500"/>
+</p>
+
+
 
 > [!About me]  
 > Interested in a wide variatey of cyber disciplines. 
