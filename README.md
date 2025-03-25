@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/your-repo/main/hello-im-mouza.gif" alt="Hello, I'm Mouza" width="500"/>
-</p>
+<h1 align="center">Mouza Alameri</h1>
+
+
 
 
 > [!About me]  
