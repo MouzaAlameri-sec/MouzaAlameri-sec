@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/4U19sNw.gif" alt="Hello, I'm Mouza" width="500"/>
+  <img src="https://raw.githubusercontent.com/yourusername/your-repo/main/hello-im-mouza.gif" alt="Hello, I'm Mouza" width="500"/>
 </p>
-
 
 
 > [!About me]  
