@@ -12,7 +12,7 @@
  
  cryptographic solutions. </b>
  
- Malware analysis - Dynamic
+ Malware analysis - Static
 
 <div align="center">
 
