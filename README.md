@@ -11,8 +11,10 @@
  Currently working on | </b>
  
  cryptographic solutions. </b>
+ learning python 
+ using classification (ml) in security 
+ security+
  
- Malware analysis - Static
 
 <div align="center">
 
