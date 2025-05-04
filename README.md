@@ -55,11 +55,7 @@
 <!-- GitHub Stats -->
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouzaAlameri-sec&show_icons=true&theme=graywhite" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouzaAlameri-sec&theme=graywhite" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouzaAlameri-sec&layout=compact&theme=graywhite" alt="Top Languages" />
 </div>
 
 <hr>
