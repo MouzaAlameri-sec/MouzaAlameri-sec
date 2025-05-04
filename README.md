@@ -26,6 +26,21 @@
 
 <h3>🐍 Python Projects</h3>
 
+<a href="https://github.com/MouzaAlameri-sec/Brute_Force_Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=Brute_Force_Python&theme=graywhite" />
+</a>
+
+<a href="https://github.com/MouzaAlameri-sec/encryption_suite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=encryption_suite&theme=graywhite" />
+</a>
+
+<a href="https://github.com/MouzaAlameri-sec/password_attempt_limiter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=password_attempt_limiter&theme=graywhite" />
+</a>
+
+<a href="https://github.com/MouzaAlameri-sec/Password_checker_python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=Password_checker_python&theme=graywhite" />
+</a>
 <a href="https://github.com/MouzaAlameri-sec/access_control">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=access_control&theme=graywhite" />
 </a>
