@@ -24,6 +24,11 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=FIM-LAB&theme=graywhite" />
 </a>
 
+<h3>🐍 Python Projects</h3>
+
+<a href="https://github.com/MouzaAlameri-sec/access_control">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=access_control&theme=graywhite" />
+</a>
 
 
 
