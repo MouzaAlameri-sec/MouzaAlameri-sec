@@ -10,7 +10,7 @@
 
  Currently working on | </b>
  
- cryptographic solutions. </b>
+Threat attackers and vectors </b>
  
  learning python.
  
