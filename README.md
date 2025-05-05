@@ -48,7 +48,11 @@ Threat attackers and vectors </b>
   <a href="https://github.com/MouzaAlameri-sec/Password_checker_python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=Password_checker_python&theme=graywhite" alt="Password Checker" />
   </a>
+  <a href="https://github.com/MouzaAlameri-sec/jwt_token_extractor-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=jwt_token_extractor-&theme=graywhite" alt="JWT Token Extractor" />
+  </a>
 </div>
+
 
 <hr>
 
