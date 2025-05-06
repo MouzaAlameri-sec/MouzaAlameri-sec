@@ -52,7 +52,10 @@ Threat attackers and vectors </b>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=jwt_token_extractor-&theme=graywhite" alt="JWT Token Extractor" />
   </a>
 </div>
-
+<a href="https://github.com/MouzaAlameri-sec/PythonBasics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=PythonBasics&theme=graywhite" alt="Python Basics" />
+  </a>
+</div>
 
 <hr>
 
