@@ -10,7 +10,9 @@
 
  Currently working on | </b>
  
-Threat attackers and vectors </b>
+Identify LM Hash Vulnerabilities 
+
+Identify DNS Transfer Vulnerabilities  </b>
  
  learning python.
  
