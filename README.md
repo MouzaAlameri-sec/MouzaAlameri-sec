@@ -1,24 +1,15 @@
 <h1 align="center">Mouza Alameri</h1>
 
-
-
-
 > [!About me]  
 > Interested in a wide variatey of cyber disciplines. 
 
+Currently working on | </b>
 
-
- Currently working on | </b>
- 
-Identify LM Hash Vulnerabilities 
-
-Identify DNS Transfer Vulnerabilities  </b>
- 
- learning python.
- 
- using classification (ml) in security. 
- 
- security+
+- Identify LM Hash Vulnerabilities  
+- Identify DNS Transfer Vulnerabilities  
+- Learning Python  
+- Using classification (ML) in security  
+- Security+
 
 <!-- Cybersecurity Projects -->
 <h3>💻 Cybersecurity Projects</h3>
@@ -54,8 +45,17 @@ Identify DNS Transfer Vulnerabilities  </b>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=jwt_token_extractor-&theme=graywhite" alt="JWT Token Extractor" />
   </a>
 </div>
-<a href="https://github.com/MouzaAlameri-sec/PythonBasics">
+<div align="center">
+  <a href="https://github.com/MouzaAlameri-sec/PythonBasics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=PythonBasics&theme=graywhite" alt="Python Basics" />
+  </a>
+</div>
+
+<!-- Machine Learning Projects -->
+<h3>🧠 Machine Learning Projects</h3>
+<div align="center">
+  <a href="https://github.com/MouzaAlameri-sec/Mechine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouzaAlameri-sec&repo=Mechine-Learning&theme=graywhite" alt="Machine Learning Project" />
   </a>
 </div>
 
@@ -68,3 +68,4 @@ Identify DNS Transfer Vulnerabilities  </b>
 </div>
 
 <hr>
+
