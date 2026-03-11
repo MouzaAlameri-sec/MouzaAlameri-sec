@@ -5,9 +5,9 @@
 
 Currently working on | </b>
 
-- Multi-cloud knowledge 
-- AZ-900 and AI-900
-- GRADUATION 
+-   Multi-cloud knowledge 
+-   AZ-900 and AI-900
+-   GRADUATION 
 
 <!-- Cybersecurity Projects -->
 <h3>💻 Cybersecurity Projects</h3>
