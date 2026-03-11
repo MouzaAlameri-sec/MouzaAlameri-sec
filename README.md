@@ -5,11 +5,9 @@
 
 Currently working on | </b>
 
-- Identify LM Hash Vulnerabilities  
-- Identify DNS Transfer Vulnerabilities  
-- Learning Python  
-- Using classification (ML) in security  
-- Security+
+- Multi-cloud knowledge 
+- AZ-900 and AI-900
+- GRADUATION 
 
 <!-- Cybersecurity Projects -->
 <h3>💻 Cybersecurity Projects</h3>
